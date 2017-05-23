@@ -1,0 +1,1 @@
+if($(window).width()>1024){document.write("<"+"script src='js/jquery.preloader.js'></"+"script>");}	
